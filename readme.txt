@@ -7,4 +7,4 @@ My stupid boss still prefers SVN.
 试试中文的输入.
 Creating a new branch is qucik and simple.
 分支管理策略。
-
+BUG分支
