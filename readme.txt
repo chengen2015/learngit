@@ -1,5 +1,5 @@
 Git is a distributed control sysytem.
-Git is free software distributed under the GPL.
+Git is a  free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
@@ -8,4 +8,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is qucik and simple.
 分支管理策略。
 BUG分支
-第三次：
+第4

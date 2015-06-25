@@ -1,0 +1,99 @@
+commit 4418e2baad0530151f3779315cab49a04ccdba40
+Merge: 6f9f7ce 10f4036
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 10:31:07 2015 +0800
+
+    merge with no-ff
+
+commit 10f4036a198e9f92a99e62cc6a89eb034e563126
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 10:29:57 2015 +0800
+
+    add merge
+
+commit 6f9f7ced6ce5f8ba0d8b3e400f3842598332f06b
+Merge: bcb7c6d a281d09
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 10:21:36 2015 +0800
+
+    conflict fixed
+
+commit bcb7c6d3b5ae39b5261bc9fdbb9c6e1fce55b765
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 10:16:14 2015 +0800
+
+    & simple
+
+commit a281d0955d5fadfd4bb2b94ae7b6ab1ab61ee32c
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 10:13:41 2015 +0800
+
+    AND simple
+
+commit 19deeba4b6e0e172b28abf44f87139e841844e84
+Author: genchen <chengen@linqsoft.com>
+Date:   Thu Jun 25 09:27:02 2015 +0800
+
+    test updata
+
+commit 2062ba1b8eb28f779f4dbbb1835d9985898c6008
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 16:25:01 2015 +0800
+
+    add test.txt
+
+commit 6ca989a23cfc7310ab8ef73d0c011b9a07a253f9
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 16:08:45 2015 +0800
+
+    "but it's true"
+
+commit e2088454ac63c95ebdd629cb100da0c3d1f65234
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:59:46 2015 +0800
+
+    git add>git add>git commit
+
+commit 6d4372a522eac53025955e57d2bdb4c77980ffc0
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:54:00 2015 +0800
+
+    git tracks changes
+
+commit 5df80c127b26d3222b1f224e87d09659d12e059b
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:48:15 2015 +0800
+
+    Test for Workspce and Dataspace
+
+commit dcfef33fd344277216ee6ddf630962347d087123
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:37:50 2015 +0800
+
+    understand how stage works
+
+commit a77e5394a8ca314ba5d802ba0efa49fd30cbf682
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:11:27 2015 +0800
+
+    append GPL
+
+commit a324241fbf404bf61835f613445fd36a4dfb135a
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 15:01:12 2015 +0800
+
+    add distributed
+
+commit 2fffdf4a74c50eb4f4b2fd7d7216bb561451a471
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 14:51:59 2015 +0800
+
+    This is a test txt;
+    
+    2015年 6月24日 星期三 14时52分45秒 CST
+
+commit f79ec7ec279c521b0081539cc74f77ab2e1e8dbd
+Author: liang.qian <qianliang@linqsoft.com>
+Date:   Wed Jun 24 14:44:24 2015 +0800
+
+    这是一个说明文档
